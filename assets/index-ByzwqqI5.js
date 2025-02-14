@@ -50,7 +50,7 @@ Error generating stack: `+u.message+`
 
 Yth. ${z}
 
-Dengan mengharap rahmat dan ridho Allah Subhanahu Wa Ta’ala dan tanpa mengurangi rasa hormat, perkenankan kami mengundang Bapak/Ibu/Sudara/i, teman sekaligus sahabat, untuk menghadiri acara pernikahan kami.
+Dengan mengharap rahmat dan ridho Allah Subhanahu Wa Ta’ala dan tanpa mengurangi rasa hormat, perkenankan kami mengundang Bapak/Ibu/Saudara/i, teman sekaligus sahabat, untuk menghadiri acara pernikahan kami.
 
 Berikut link undangan kami untuk info lengkap dari acara bisa kunjungi :
 
